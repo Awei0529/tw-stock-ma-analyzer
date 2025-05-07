@@ -1,7 +1,7 @@
 {
-  "export_path": "C:\\Users\\User",
+  "export_path": "./output",
   "export_filename": "tw_stock_ma_breakthrough_{date}.csv",
-  "run_time": "13:32",
+  "run_time": "18:30",
   "holidays": [
     "2025-01-01",
     "2025-01-25",
@@ -24,11 +24,11 @@
     "2025-10-06",
     "2025-10-10"
   ],
-  "send_email": "st0983677907@gmail.com",
-  "send_password": "nrda tnai jhsf fevd",
+  "send_email": "your_email@gmail.com",
+  "send_password": "your_app_password",
   "smtp": "smtp.gmail.com",
   "smtp_port": 587,
-  "to": "st0983677907@gmail.com",
+  "to": "recipient@example.com",
   "sub": "有檔案_每日報告",
   "context": "您好，\n\n附件是今天的報告檔案，請查收。\n\n此致，\n自動郵件系統",
   "nofile_sub": "警告 - 今日無報告檔案",
