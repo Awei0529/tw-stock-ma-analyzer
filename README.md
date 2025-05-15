@@ -24,9 +24,11 @@ TW Stock MA Breakthrough Analyzer
 檔案設定	`config.json` 統一控制配置
 
 📦 執行方式
-```bash
+
 安裝必要套件
+```bash
 pip install -r requirements.txt
+```
 一次性執行分析
 python 股票均值分析_學術版.py
 
